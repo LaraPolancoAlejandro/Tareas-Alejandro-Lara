@@ -1,0 +1,11 @@
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\bin\Debug\PROYECTO 1.exe.config
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\bin\Debug\PROYECTO 1.exe
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\bin\Debug\PROYECTO 1.pdb
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.csproj.AssemblyReference.cache
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO_1.Form1.resources
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO_1.Properties.Resources.resources
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.csproj.GenerateResource.cache
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.csproj.CoreCompileInputs.cache
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.exe
+C:\Users\ALP54\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\PROYECTO 1.pdb
