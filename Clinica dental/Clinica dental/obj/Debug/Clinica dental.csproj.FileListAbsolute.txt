@@ -1,0 +1,12 @@
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\bin\Debug\Clinica dental.exe.config
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\bin\Debug\Clinica dental.exe
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\bin\Debug\Clinica dental.pdb
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.csproj.AssemblyReference.cache
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica_dental.Formulario.resources
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica_dental.Properties.Resources.resources
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.csproj.GenerateResource.cache
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.csproj.CoreCompileInputs.cache
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.exe
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica dental.pdb
+C:\Users\ALP54\source\repos\Clinica dental\Clinica dental\obj\Debug\Clinica_dental.Form2.resources
